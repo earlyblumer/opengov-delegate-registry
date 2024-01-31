@@ -358,4 +358,12 @@
         "longDescription": "ValidOrange operates Polkadot and Kusama validators. I vote on all OpenGov proposals and try to cast votes that support the best interests of the ecosystem. Decisions posted on X.",
         "isOrganization": false
     }
+     {
+        "address": "158aniD5ZoySYQoJJbcW1Km3xniXRB4k8PZk3Xcf7QsThG7b",
+        "name": "earlyblumer",
+        "image": "",
+        "shortDescription": "Independent validator operator based in US. Infrastructure experience and active in OpenGov.",
+        "longDescription": "earlyblumer seeks to operate Polkadot validators. I vote on all OpenGov proposals and try to cast votes that support the best interests of the ecosystem. Decisions posted on X.",
+        "isOrganization": false
+    }
 ]
